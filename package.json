@@ -1,0 +1,25 @@
+{
+  "name": "web3js-deploy-trx-ropsten",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/96sunghyun/web3js-deploy-trx-ropsten.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/96sunghyun/web3js-deploy-trx-ropsten/issues"
+  },
+  "homepage": "https://github.com/96sunghyun/web3js-deploy-trx-ropsten#readme",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.8",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "web3": "^1.7.3"
+  }
+}
